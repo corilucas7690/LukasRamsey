@@ -1,8 +1,9 @@
 h1 {
     font-size: 25px;
     text-align:start;
-    color: black;
+    color: white;
     text-decoration: underline;
+    background: purple;
 }
 .btn {
     border: 2px solid black;
